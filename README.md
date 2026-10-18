@@ -18,6 +18,10 @@ uv sync
 uv run jupyter lab
 ```
 
+## License
+
+Code is MIT-licensed and course text is CC BY-SA 4.0. See [LICENSE.md](LICENSE.md).
+
 ## Updates
 
 This repository is updated automatically as new material is released. Run `git pull` regularly to get the latest notebooks.
