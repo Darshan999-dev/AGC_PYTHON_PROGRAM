@@ -70,7 +70,20 @@ Notebook file names are numbered in the order you should work through them, cont
 | 10 | [For Loops and Range](notebooks/10_For_Loops_and_Range.ipynb) | `for`, `range()`, `enumerate()`, `zip()` |
 | 11 | [Nested Loops and Loop Patterns](notebooks/11_Nested_Loops_and_Loop_Patterns.ipynb) | Grids, common patterns, and the **Level 1 project**: a number-guessing game |
 
-Levels 2 to 10 are coming.
+### Level 2 · Data Structures and Functions
+
+| # | Notebook | What you learn |
+|---|---|---|
+| 12 | [Lists](notebooks/12_Lists.ipynb) | Ordered, changeable sequences; aliasing vs. copying; nested lists |
+| 13 | [Tuples and Unpacking](notebooks/13_Tuples_and_Unpacking.ipynb) | Fixed-size groupings, packing and unpacking, `*` unpacking |
+| 14 | [Dictionaries](notebooks/14_Dictionaries.ipynb) | Key-value lookup, counters, nested dicts |
+| 15 | [Sets](notebooks/15_Sets.ipynb) | Unique collections and set operations |
+| 16 | [Choosing the Right Collection](notebooks/16_Choosing_the_Right_Collection.ipynb) | Comparing list, tuple, dict, set and string; mixed structures |
+| 17 | [Functions](notebooks/17_Functions.ipynb) | `def`, `return`, docstrings, reuse |
+| 18 | [Function Arguments and Scope](notebooks/18_Function_Arguments_and_Scope.ipynb) | Keyword and default arguments, `*args`/`**kwargs`, scope, mutable defaults |
+| 19 | [Recursion and Function Design](notebooks/19_Recursion_and_Function_Design.ipynb) | Recursion (optional), small single-purpose functions, decomposing programs |
+
+Levels 3 to 10 are coming.
 
 ## How the notebooks work
 
