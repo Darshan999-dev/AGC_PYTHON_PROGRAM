@@ -1,7 +1,7 @@
 [project]
 name = "python-course"
 version = "0.1.0"
-description = "Intro to Python"
+description = "Python, from first principles to professional proficiency"
 requires-python = ">=3.12"
 dependencies = [
     "jupyterlab",
@@ -10,3 +10,7 @@ dependencies = [
 
 [tool.uv]
 package = false
+
+[dependency-groups]
+# Level groups are cumulative; see PLAN.md ("Dependency groups"). Levels 1 and 2 add no packages.
+level1 = []
